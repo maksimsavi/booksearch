@@ -1,0 +1,24 @@
+h1 {text-align: center;}
+header {
+  margin-top: 0px;
+  padding: 1vh;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.filter_options {
+  background-color: lightgrey;
+  padding-left: 10vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+ul li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.book_list {
+  display: block;
+  margin-left: 10vw;
+  
+}

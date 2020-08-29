@@ -1,0 +1,17 @@
+
+img {
+    margin-right: 0;
+}
+li {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 60vw;
+    border-bottom: 1px solid lightgreen;
+}
+li > div {
+    margin: 20px;
+}
+h2 {
+    margin: 0;
+}
